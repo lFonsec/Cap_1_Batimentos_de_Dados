@@ -30,6 +30,8 @@ Para a análise de dados visuais, utilizei o [**dataset CardiacUDC**](https://ww
 
 Estas análises são de grande relevância para projetos de IA aplicada na saúde, pois facilitam a criação de sistemas capazes de auxiliar no diagnóstico precoce, especialmente em doenças cardiovasculares, que estão entre as principais causas de morbidade e mortalidade no mundo.
 
+Link para o dataset visual em formato de .png no [**google drive**](https://drive.google.com/drive/folders/12RUdatBKOwNvLi2G1_s09lqAGbsXDWnl?usp=sharing)
+
 Para o processamento textual foi escolhido o texto [**Estatística Cardiovascular – Brasil 2023**](https://www.scielo.br/j/abc/a/jzFMcdN5y3w6CtjVgdJdSdR/?lang=pt) que tem como objetivo fornecer uma compilação anual dos dados e das pesquisas sobre a epidemiologia das DCV no Brasil. Este documento congrega as estatísticas oficiais do Ministério da Saúde do Brasil e outras entidades governamentais ao lado de dados do projeto GBD, coordenado pelo IHME da Universidade de Washington
 
 Por se tratar de uma fonte que consolida dados atualizados de forma sistemática e anual, esse documento representa uma excelente oportunidade para ser explorado por algoritmos de NLP.
